@@ -4,8 +4,7 @@ Interfacing ESP8266 with Arduino and sensors and integrating with ThingSpeak for
 This repo includes the arduino code.
 
 A complete tutorial to design the circuits for
-    programming ESP
-    programming Arduino
-    Building the system
-is avalable in my personal website [url] http://puyaa.ir/iot-esp8266/ [/url]
-    
+   * programming ESP
+   * programming Arduino
+   * Building the system
+is avalable in my personal website http://puyaa.ir/iot-esp8266/
