@@ -27,7 +27,7 @@ volatile int amp = 100;                   // used to hold amplitude of pulse wav
 volatile boolean firstBeat = true;        // used to seed rate array so we startup with reasonable BPM
 volatile boolean secondBeat = false;      // used to seed rate array so we startup with reasonable BPM//function Prototypes
 void interruptSetup(void);//Thingspeak API key
-String apiKey = “AAAAAAAAAAAAAAAA-sample-key”;// connect 11 to TX of Serial USB
+String apiKey = "AAAAAAAAAAAAAAAA-sample-key";// connect 11 to TX of Serial USB
 // connect 12 to RX of serial USB
 SoftwareSerial ser(11, 12); // RX, TX// this runs once
 void setup() {
